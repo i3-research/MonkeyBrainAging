@@ -1,4 +1,5 @@
-# ProtoSeg
-The code of the ProtoSeg for interpretation of segmentation maps.
+# Monkey Brain Age Estimation 
+
+The code of monkey brain age estimation (models)
 
 More details of other parts will come soon.
